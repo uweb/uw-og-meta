@@ -1,0 +1,16 @@
+og meta To Do: 
+
+pic: 
+(*)check feature image 
+(*)then check 1st photo 
+(*)then go logo
+
+content: 
+(*)check excerpt 
+(*)then go content
+()filter out non-text content
+
+()upload to github!
+
+start working on menu in side of page menu that allows editing for description/image etc. 
+process = check if set in menu, else use previous stuff. 
